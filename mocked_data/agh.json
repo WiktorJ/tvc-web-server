@@ -1,0 +1,632 @@
+[
+  {
+    "id": 0,
+    "pid": "",
+    "label": "AGH",
+    "address": "www.agh.edu.pl"
+  },
+  {
+    "id": 1,
+    "pid": 0,
+    "label": "WGiG",
+    "address": "www.gorn.agh.edu.pl"
+  },
+  {
+    "id": 2,
+    "pid": 1,
+    "label": "KEiZwP",
+    "address": "http://www.kezp.agh.edu.pl/kezp.php"
+  },
+  {
+    "id": 3,
+    "pid": 1,
+    "label": "KGBiG",
+    "address": "http://www.kgbig.agh.edu.pl/"
+  },
+  {
+    "id": 4,
+    "pid": 1,
+    "label": "KGO",
+    "address": "http://www.kgo.agh.edu.pl/"
+  },
+  {
+    "id": 5,
+    "pid": 1,
+    "label": "KGP",
+    "address": "http://www.kgp.agh.edu.pl/"
+  },
+  {
+    "id": 6,
+    "pid": 1,
+    "label": "KISiPS",
+    "address": "http://www.kisips.agh.edu.pl/"
+  },
+  {
+    "id": 7,
+    "pid": 0,
+    "label": "WIMiIP",
+    "address": "www.metal.agh.edu.pl"
+  },
+  {
+    "id": 8,
+    "pid": 7,
+    "label": "KISiM",
+    "address": "http://www.isim.agh.edu.pl/"
+  },
+  {
+    "id": 9,
+    "pid": 7,
+    "label": "KIPiAM",
+    "address": "http://galaxy.uci.agh.edu.pl/~ziam/"
+  },
+  {
+    "id": 10,
+    "pid": 7,
+    "label": "KMiMP",
+    "address": "http://www.kmimp.agh.edu.pl/"
+  },
+  {
+    "id": 11,
+    "pid": 7,
+    "label": "KMSL",
+    "address": "http://home.agh.edu.pl/~zmsz/pl/"
+  },
+  {
+    "id": 12,
+    "pid": 7,
+    "label": "KPPM",
+    "address": "http://www.ppm.agh.edu.pl/"
+  },
+  {
+    "id": 13,
+    "pid": 7,
+    "label": "KTCiO�",
+    "address": "http://www.ztcios.agh.edu.pl/"
+  },
+  {
+    "id": 14,
+    "pid": 0,
+    "label": "WEAIiIB",
+    "address": "www.eaiib.agh.edu.pl"
+  },
+  {
+    "id": 15,
+    "pid": 14,
+    "label": "KAiIB",
+    "address": "http://www.ia.agh.edu.pl/"
+  },
+  {
+    "id": 16,
+    "pid": 14,
+    "label": "KEiASPE",
+    "address": "http://www.keiaspe.agh.edu.pl/index.php/pl/"
+  },
+  {
+    "id": 17,
+    "pid": 14,
+    "label": "KEiE",
+    "address": "http://www.kee.agh.edu.pl/"
+  },
+  {
+    "id": 18,
+    "pid": 14,
+    "label": "KIS",
+    "address": "http://www.kis.agh.edu.pl/"
+  },
+  {
+    "id": 19,
+    "pid": 14,
+    "label": "KMiE",
+    "address": "http://www.kmet.agh.edu.pl/"
+  },
+  {
+    "id": 20,
+    "pid": 0,
+    "label": "WIEiT",
+    "address": "www.iet.agh.edu.pl"
+  },
+  {
+    "id": 21,
+    "pid": 20,
+    "label": "KE",
+    "address": "http://www.ke.agh.edu.pl/"
+  },
+  {
+    "id": 22,
+    "pid": 20,
+    "label": "KT",
+    "address": "http://www.kt.agh.edu.pl/"
+  },
+  {
+    "id": 23,
+    "pid": 20,
+    "label": "KI",
+    "address": "http://www.ki.agh.edu.pl/"
+  },
+  {
+    "id": 24,
+    "pid": 0,
+    "label": "WIMiR",
+    "address": "www.imir.agh.edu.pl"
+  },
+  {
+    "id": 25,
+    "pid": 24,
+    "label": "KMGPiT",
+    "address": "http://www.kmg.agh.edu.pl/"
+  },
+  {
+    "id": 26,
+    "pid": 24,
+    "label": "KSW",
+    "address": "http://www.ksw.agh.edu.pl/nowa/index.php/pl/"
+  },
+  {
+    "id": 27,
+    "pid": 24,
+    "label": "KAP",
+    "address": "http://www.kap.agh.edu.pl/pl/"
+  },
+  {
+    "id": 28,
+    "pid": 24,
+    "label": "KSEiUOS",
+    "address": "http://www.kseiuos.agh.edu.pl/"
+  },
+  {
+    "id": 29,
+    "pid": 24,
+    "label": "KTL",
+    "address": "http://ktl.imir.agh.edu.pl/"
+  },
+  {
+    "id": 30,
+    "pid": 24,
+    "label": "KMiW",
+    "address": "http://kmiw.imir.agh.edu.pl/"
+  },
+  {
+    "id": 31,
+    "pid": 24,
+    "label": "KRiM",
+    "address": "http://krim.agh.edu.pl/en/"
+  },
+  {
+    "id": 32,
+    "pid": 24,
+    "label": "KWZMiK",
+    "address": "http://zwmik.imir.agh.edu.pl/"
+  },
+  {
+    "id": 33,
+    "pid": 24,
+    "label": "KKiEM",
+    "address": "http://www.kkiem.agh.edu.pl/"
+  },
+  {
+    "id": 34,
+    "pid": 0,
+    "label": "WGGiOS",
+    "address": "www.wggios.agh.edu.pl"
+  },
+  {
+    "id": 35,
+    "pid": 34,
+    "label": "KGOiG",
+    "address": "http://www.kgos.agh.edu.pl/"
+  },
+  {
+    "id": 36,
+    "pid": 34,
+    "label": "KOS",
+    "address": "http://www.wggios.agh.edu.pl/wydzial/struktura"
+  },
+  {
+    "id": 37,
+    "pid": 34,
+    "label": "KMPiG",
+    "address": "http://www.kmpig.geol.agh.edu.pl/"
+  },
+  {
+    "id": 38,
+    "pid": 34,
+    "label": "KGZiG",
+    "address": "http://www.geol.agh.edu.pl/~kgzig/"
+  },
+  {
+    "id": 39,
+    "pid": 34,
+    "label": "KASKiGG",
+    "address": "http://www.kaskgg.agh.edu.pl/"
+  },
+  {
+    "id": 40,
+    "pid": 34,
+    "label": "KSE",
+    "address": "http://www.kse.agh.edu.pl/"
+  },
+  {
+    "id": 41,
+    "pid": 34,
+    "label": "KG",
+    "address": "http://home.agh.edu.pl/~gf/"
+  },
+  {
+    "id": 42,
+    "pid": 34,
+    "label": "KHiGI",
+    "address": "http://www.khgi.agh.edu.pl/"
+  },
+  {
+    "id": 43,
+    "pid": 34,
+    "label": "KGiIS",
+    "address": "http://home.agh.edu.pl/~geoinf/pl/przykladowa-strona/"
+  },
+  {
+    "id": 44,
+    "pid": 0,
+    "label": "WGGiIS",
+    "address": "www.geod.agh.edu.pl"
+  },
+  {
+    "id": 45,
+    "pid": 44,
+    "label": "KGIiB",
+    "address": "http://galaxy.uci.agh.edu.pl/~zgiib/"
+  },
+  {
+    "id": 46,
+    "pid": 44,
+    "label": "KGFiTS",
+    "address": "http://twiki.fotogrametria.agh.edu.pl/bin/view/StronaGlowna/WebHome"
+  },
+  {
+    "id": 47,
+    "pid": 44,
+    "label": "KG",
+    "address": "http://www.geomatyka.agh.edu.pl/"
+  },
+  {
+    "id": 48,
+    "pid": 44,
+    "label": "KKiOS",
+    "address": "http://home.agh.edu.pl/~kkios/wordpress/?lang=pl"
+  },
+  {
+    "id": 49,
+    "pid": 44,
+    "label": "KOTGGiGG",
+    "address": "http://galaxy.uci.agh.edu.pl/~zotg/"
+  },
+  {
+    "id": 50,
+    "pid": 0,
+    "label": "WIMiC",
+    "address": "www.ceramika.agh.edu.pl"
+  },
+  {
+    "id": 51,
+    "pid": 50,
+    "label": "KFiMP",
+    "address": "http://www.ceramika.agh.edu.pl/~kfimp/"
+  },
+  {
+    "id": 52,
+    "pid": 50,
+    "label": "KCN",
+    "address": "http://galaxy.uci.agh.edu.pl/~zcn/"
+  },
+  {
+    "id": 53,
+    "pid": 50,
+    "label": "KCA",
+    "address": "http://galaxy.uci.agh.edu.pl/~kca/"
+  },
+  {
+    "id": 54,
+    "pid": 50,
+    "label": "KTMB",
+    "address": "http://149.156.120.190/wp001/"
+  },
+  {
+    "id": 55,
+    "pid": 50,
+    "label": "KTSiPA",
+    "address": "http://www.ceramika.agh.edu.pl/~ktsipa/"
+  },
+  {
+    "id": 56,
+    "pid": 50,
+    "label": "KCiMO",
+    "address": "http://kcimo.pl/pl/start"
+  },
+  {
+    "id": 57,
+    "pid": 50,
+    "label": "KCKiZW",
+    "address": "http://kckizw.ceramika.agh.edu.pl/"
+  },
+  {
+    "id": 58,
+    "pid": 50,
+    "label": "KB",
+    "address": "http://www.ceramika.agh.edu.pl/~kb/"
+  },
+  {
+    "id": 59,
+    "pid": 50,
+    "label": "KBiN",
+    "address": "http://www.neuro.agh.edu.pl/"
+  },
+  {
+    "id": 60,
+    "pid": 0,
+    "label": "WO",
+    "address": "www.odlewnictwo.agh.edu.pl"
+  },
+  {
+    "id": 61,
+    "pid": 60,
+    "label": "KIPO",
+    "address": "http://www.kipo.agh.edu.pl/"
+  },
+  {
+    "id": 62,
+    "pid": 60,
+    "label": "KISiKO",
+    "address": "http://www.kisiko.agh.edu.pl/"
+  },
+  {
+    "id": 63,
+    "pid": 60,
+    "label": "KTFTFiOMN",
+    "address": "http://www.1odlewnictwo.agh.edu.pl/katedra/index.html"
+  },
+  {
+    "id": 64,
+    "pid": 60,
+    "label": "KCiKM",
+    "address": "http://www.chemia.odlew.agh.edu.pl/"
+  },
+  {
+    "id": 65,
+    "pid": 0,
+    "label": "WMN",
+    "address": "www.wmn.agh.edu.pl"
+  },
+  {
+    "id": 66,
+    "pid": 65,
+    "label": "KFiMMN",
+    "address": "http://www.wmn.agh.edu.pl/katedra-fizykochemii-i-metalurgii-metali-niezelaznych/"
+  },
+  {
+    "id": 67,
+    "pid": 65,
+    "label": "KPPiMMN",
+    "address": "http://www.ppim.agh.edu.pl/pl/"
+  },
+  {
+    "id": 68,
+    "pid": 65,
+    "label": "KNoMiIMN",
+    "address": "http://www.wmn.agh.edu.pl/pl/wydzial/jednostki-organizacyjne/katedra-nauki-o-materia-ach-i-in-ynierii-metali-nie-elaznych"
+  },
+  {
+    "id": 69,
+    "pid": 0,
+    "label": "WWNiG",
+    "address": "www.wnig.agh.edu.pl"
+  },
+  {
+    "id": 70,
+    "pid": 69,
+    "label": "KWiG",
+    "address": "http://wnig.agh.edu.pl/wydzial/katedry/katedra-wiertnictwa-i-geoinzynierii/"
+  },
+  {
+    "id": 71,
+    "pid": 69,
+    "label": "KIN",
+    "address": "http://wnig.agh.edu.pl/wydzial/katedry/katedra-inzynierii-naftowej/"
+  },
+  {
+    "id": 72,
+    "pid": 69,
+    "label": "KIG",
+    "address": "http://www.kig.wnaft.agh.edu.pl/"
+  },
+  {
+    "id": 73,
+    "pid": 0,
+    "label": "WZ",
+    "address": "www.zarz.agh.edu.pl"
+  },
+  {
+    "id": 74,
+    "pid": 73,
+    "label": "KBOiTI",
+    "address": "http://www.zarz.agh.edu.pl/polska/informacje_o_wydziale/informacje_o_wydziale.asp?ID=Katedra_Badan_Operacyjnych_i_Technologii_Informacyjnych"
+  },
+  {
+    "id": 75,
+    "pid": 73,
+    "label": "KEFiZS",
+    "address": "http://www.zarz.agh.edu.pl/polska/informacje_o_wydziale/informacje_o_wydziale.asp?ID=Katedra_Ekonomii_Finansow_i_Zarzadzania_Srodowiskiem"
+  },
+  {
+    "id": 76,
+    "pid": 73,
+    "label": "KIS",
+    "address": "http://www.zarz.agh.edu.pl/polska/informacje_o_wydziale/informacje_o_wydziale.asp?ID=Katedra_Informatyki_Stosowanej"
+  },
+  {
+    "id": 77,
+    "pid": 73,
+    "label": "KIZ",
+    "address": "http://www.zarz.agh.edu.pl/polska/informacje_o_wydziale/informacje_o_wydziale.asp?ID=Katedra_Inzynierii_Zarzadzania"
+  },
+  {
+    "id": 78,
+    "pid": 73,
+    "label": "KZOKiPG",
+    "address": "http://www.zarz.agh.edu.pl/polska/informacje_o_wydziale/informacje_o_wydziale.asp?ID=Katedra_Zarzadzania_Organizacjami_Kadrami_i_Prawa_Gospodarczego"
+  },
+  {
+    "id": 79,
+    "pid": 73,
+    "label": "KZwE",
+    "address": "http://www.zarz.agh.edu.pl/polska/informacje_o_wydziale/informacje_o_wydziale.asp?ID=Katedra_Zarzadzania_w_Energetyce"
+  },
+  {
+    "id": 80,
+    "pid": 0,
+    "label": "WEiP",
+    "address": "www.weip.agh.edu.pl"
+  },
+  {
+    "id": 81,
+    "pid": 80,
+    "label": "KCWiNoS",
+    "address": "http://galaxy.agh.edu.pl/~kchemgor/"
+  },
+  {
+    "id": 82,
+    "pid": 80,
+    "label": "KEJ",
+    "address": "http://www.kej.agh.edu.pl/"
+  },
+  {
+    "id": 83,
+    "pid": 80,
+    "label": "KEW",
+    "address": "http://www.kew.agh.edu.pl/"
+  },
+  {
+    "id": 84,
+    "pid": 80,
+    "label": "KMCiP",
+    "address": "http://www.kmcip.agh.edu.pl/"
+  },
+  {
+    "id": 85,
+    "pid": 80,
+    "label": "KPPE",
+    "address": "http://www.kppe.agh.edu.pl/"
+  },
+  {
+    "id": 86,
+    "pid": 80,
+    "label": "KTP",
+    "address": "http://galaxy.agh.edu.pl/~ktp/"
+  },
+  {
+    "id": 87,
+    "pid": 80,
+    "label": "KZRE",
+    "address": "http://www.kzre.agh.edu.pl/"
+  },
+  {
+    "id": 88,
+    "pid": 0,
+    "label": "WFIIS",
+    "address": "www.fis.agh.edu.pl"
+  },
+  {
+    "id": 89,
+    "pid": 88,
+    "label": "KFCS",
+    "address": "http://www.fis.agh.edu.pl/kfcs/"
+  },
+  {
+    "id": 90,
+    "pid": 88,
+    "label": "KFMS",
+    "address": "http://www.fis.agh.edu.pl/kfms/"
+  },
+  {
+    "id": 91,
+    "pid": 88,
+    "label": "KFMiB",
+    "address": "http://www.fis.agh.edu.pl/kfmib/"
+  },
+  {
+    "id": 92,
+    "pid": 88,
+    "label": "KISiFK",
+    "address": "http://www.pacs.agh.edu.pl/aicp/"
+  },
+  {
+    "id": 93,
+    "pid": 88,
+    "label": "KOiDC",
+    "address": "http://www.fis.agh.edu.pl/koidc/?setlang=pl"
+  },
+  {
+    "id": 94,
+    "pid": 88,
+    "label": "KZFJ",
+    "address": "http://www.fis.agh.edu.pl/kzfj/"
+  },
+  {
+    "id": 95,
+    "pid": 0,
+    "label": "WMS",
+    "address": "www.wms.agh.edu.pl"
+  },
+  {
+    "id": 96,
+    "pid": 95,
+    "label": "KAMMOiMP",
+    "address": "http://www.wms.agh.edu.pl/index.php?m=1&p=37"
+  },
+  {
+    "id": 97,
+    "pid": 95,
+    "label": "KMD",
+    "address": "http://wms.mat.agh.edu.pl/~md/"
+  },
+  {
+    "id": 98,
+    "pid": 95,
+    "label": "KMF",
+    "address": "http://www.wms.agh.edu.pl/index.php?m=1&p=37"
+  },
+  {
+    "id": 99,
+    "pid": 95,
+    "label": "KRR",
+    "address": "http://www.wms.agh.edu.pl/index.php?m=1&p=37"
+  },
+  {
+    "id": 100,
+    "pid": 0,
+    "label": "WH",
+    "address": "www.wh.agh.edu.pl"
+  },
+  {
+    "id": 101,
+    "pid": 100,
+    "label": "KSOiAS",
+    "address": "http://wh.agh.edu.pl/main/pl/jednostki-organizacyjne/"
+  },
+  {
+    "id": 102,
+    "pid": 100,
+    "label": "KPiHN",
+    "address": "http://wh.agh.edu.pl/main/pl/jednostki-organizacyjne/"
+  },
+  {
+    "id": 103,
+    "pid": 100,
+    "label": "KSGiKS",
+    "address": "http://wh.agh.edu.pl/main/pl/jednostki-organizacyjne/"
+  },
+  {
+    "id": 104,
+    "pid": 100,
+    "label": "KKiF",
+    "address": "http://wh.agh.edu.pl/main/pl/jednostki-organizacyjne/"
+  }
+]

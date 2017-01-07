@@ -1,0 +1,67 @@
+[
+  {
+    "name": "0",
+    "parent": "ZZ",
+    "label": "A"
+  },
+  {
+    "name": "1",
+    "parent": "0",
+    "label": "B",
+    "labelP": "Booooo"
+  },
+  {
+    "name": "2",
+    "parent": "0",
+    "label": "C",
+    "labelP": "Cooooo"
+  },
+  {
+    "name": "3",
+    "parent": "1",
+    "label": "D",
+    "labelP": "Dooooo"
+  },
+  {
+    "name": "4",
+    "parent": "1",
+    "label": "E",
+    "labelP": "Eooooo"
+  },
+  {
+    "name": "5",
+    "parent": "3",
+    "label": "F",
+    "labelP": "Fooooo"
+  },
+  {
+    "name": "6",
+    "parent": "2",
+    "label": "G",
+    "labelP": "Gooooo"
+  },
+  {
+    "name": "7",
+    "parent": "3",
+    "label": "H",
+    "labelP": "Hooooo"
+  },
+  {
+    "name": "8",
+    "parent": "3",
+    "label": "I",
+    "labelP": "Iooooo"
+  },
+  {
+    "name": "9",
+    "parent": "8",
+    "label": "J",
+    "labelP": "Jooooo"
+  },
+  {
+    "name": "10",
+    "parent": "8",
+    "label": "K",
+    "labelP": "Kooooo"
+  }
+]

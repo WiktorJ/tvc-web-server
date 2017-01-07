@@ -1,0 +1,102 @@
+[
+  {
+    "_source": {"id": 1},
+    "_target": {"id": 2},
+    "edge": {"label": "A"}
+  },
+  {
+    "_source": {"id": 5},
+    "_target": {"id": 9},
+    "edge": {"label": "B"}
+  },
+  {
+    "_source": {"id": 8},
+    "_target": {"id": 2},
+    "edge": {"label": "C"}
+  },
+  {
+    "_source": {"id": 3},
+    "_target": {"id": 7},
+    "edge": {"label": "D"}
+  },
+  {
+    "_source": {"id": 3},
+    "_target": {"id": 4},
+    "edge": {"label": "E"}
+  },
+  {
+    "_source": {"id": 7},
+    "_target": {"id": 9},
+    "edge": {"label": "F"}
+  },
+  {
+    "_source": {"id": 6},
+    "_target": {"id": 9},
+    "edge": {"label": "G"}
+  },
+  {
+    "_source": {"id": 2},
+    "_target": {"id": 5},
+    "edge": {"label": "H"}
+  },
+  {
+    "_source": {"id": 9},
+    "_target": {"id": 1},
+    "edge": {"label": "I"}
+  },
+  {
+    "_source": {"id": 6},
+    "_target": {"id": 3},
+    "edge": {"label": "J"}
+  },
+  {
+    "_source": {"id": 8},
+    "_target": {"id": 4},
+    "edge": {"label": "K"}
+  },
+  {
+    "_source": {"id": 8},
+    "_target": {"id": 5},
+    "edge": {"label": "L"}
+  },
+  {
+    "_source": {"id": 8},
+    "_target": {"id": 7},
+    "edge": {"label": "M"}
+  },
+  {
+    "_source": {"id": 2},
+    "_target": {"id": 4},
+    "edge": {"label": "O"}
+  },
+  {
+    "_source": {"id": 4},
+    "_target": {"id": 1},
+    "edge": {"label": "P"}
+  },
+  {
+    "_source": {"id": 6},
+    "_target": {"id": 1},
+    "edge": {"label": "R"}
+  },
+  {
+    "_source": {"id": 7},
+    "_target": {"id": 1},
+    "edge": {"label": "S"}
+},
+  {
+    "_source": {"id": 8},
+    "_target": {"id": 1},
+    "edge": {"label": "T"}
+  },
+  {
+    "_source": {"id": 1},
+    "_target": {"id": 5},
+    "edge": {"label": "V"}
+  },
+  {
+    "_source": {"id": 5},
+    "_target": {"id": 3},
+    "edge": {"label": "W"}
+  }
+]
