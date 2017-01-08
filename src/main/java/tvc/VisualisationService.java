@@ -15,7 +15,7 @@ import java.util.Map;
  * will be used to perform query.
  */
 @Service(value = "visualisationService")
-public class VisualisationService {
+public class    VisualisationService {
 
     @Autowired
     private QueryResultRepository queryResultRepository;
